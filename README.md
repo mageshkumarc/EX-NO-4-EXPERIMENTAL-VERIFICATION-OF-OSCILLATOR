@@ -1,14 +1,13 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
- ##AIM:
+
+## AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
+## THEORY:
+RC PHASE SHIFT OSCILLATOR
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
-The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
+	The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
 
 ## APPARATUS REQUIRED
@@ -29,8 +28,8 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
 
+![WhatsApp Image 2025-12-02 at 18 50 02_9d5e853c](https://github.com/user-attachments/assets/c8ce6ba5-c1d5-47ae-a502-959db6e2d787)
 
 
 ---
@@ -57,21 +56,18 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-02 at 18 50 45_ca7ab810](https://github.com/user-attachments/assets/b5cfb60c-6235-44df-a383-8dd9846f4f6e)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-02 at 18 51 35_e5ea2125](https://github.com/user-attachments/assets/1df79f0a-52bd-4051-a274-43aa9a465bcf)
 
 ---
 ## THEORY
- ##WIEN BRIDGE
+ WIEN BRIDGE
+
+# DATE: 1.11.2025
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -90,7 +86,8 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+
+![WhatsApp Image 2025-12-02 at 19 00 29_09dfe112](https://github.com/user-attachments/assets/efcd6852-8753-4c87-9d9f-2682c62ecd2b)
 
 
 ---
@@ -102,6 +99,7 @@ WIEN BRIDGE OSCILLATOR
 ## DESIGN
 
 ## WIEN BRIDGE OSCILLATOR
+
 Select frequency f0 = 1KHz
 fo = 1/2πRC
 A = 1+(Rf / R1) = 3.
@@ -124,16 +122,13 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-02 at 19 00 43_726d227c](https://github.com/user-attachments/assets/3524a14c-1133-4b18-ac9c-796de45e6160)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-12-02 at 19 01 00_f6a0b4bf](https://github.com/user-attachments/assets/391953e2-ce92-4f23-a054-01a655798f65)
+
 
 
 ---
