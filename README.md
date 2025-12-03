@@ -48,6 +48,9 @@ To prevent loading,
 R1   10 R
 R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
+<img width="1344" height="1527" alt="image" src="https://github.com/user-attachments/assets/29d03f67-4f2c-4f8d-a2b6-22d715dd80f0" />
+
+
 ---
 ## PROCEDURE
 1.	Connect the circuit as shown in fig. With the design values.
@@ -111,6 +114,9 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+
+<img width="1439" height="1155" alt="image" src="https://github.com/user-attachments/assets/a02ca4b5-2ea0-4e6d-8989-8434bcd6a584" />
+
 ---
 
 ## PROCEDURE
